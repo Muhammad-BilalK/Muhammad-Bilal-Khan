@@ -21,6 +21,10 @@
 <a href="https://instagram.com/https://www.instagram.com/muhammad_bilal_khan15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammad_bilal_khan15/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+
 <img align="right" alt="insta" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-bilalk&show_icons=true&locale=en&layout=compact" alt="muhammad-bilalk" /></p>

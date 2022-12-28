@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammad-BilalK/Muhammad-BilalK/blob/main/Black%20Modern%20Minimalist%20Corporate%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Khan</h1>
 <h3 align="center">A passionate backend developer from Pakistan.</h3>
 

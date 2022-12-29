@@ -27,14 +27,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+<img align="right" alt="cod" width="300" height="250" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="insta" width="330" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="insta" width="370" height="250" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-13.gif">
 
-<img align="right" alt="insta" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="insta" width="900" height="100" src="https://www.citypng.com/public/uploads/small/31631830509hmwvoomviegp31n1c87psxb0lymc9f9xfb4x0mxber3cnvjwe4by6fgj6emkcl2nocmfvk2bzyc7empasfqh1rwua0tkrflbvm8n.png">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-bilalk&show_icons=true&locale=en&layout=compact" alt="muhammad-bilalk" /></p>
+<img align="center" alt="insta" width="300" height="300" src="https://media0.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-bilalk&show_icons=true&locale=en&layout=compact" alt="muhammad-bilalk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-bilalk&show_icons=true&locale=en" alt="muhammad-bilalk" /></p>
+<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammad-bilalk&show_icons=true&locale=en" alt="muhammad-bilalk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-bilalk&" alt="muhammad-bilalk" /></p>
+<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-bilalk&" alt="muhammad-bilalk" /></p>
 
 <img align="right" alt="code" width="400" src="https://cdn.booooooom.com/wp-content/uploads/2017/06/dave-whyte-15.gif">
 <img align="centre" alt="code" width="400" src="https://laughingsquid.com/wp-content/uploads/2015/04/tumblr_nk6h6eQSjw1tcuj64o1_400.gif">

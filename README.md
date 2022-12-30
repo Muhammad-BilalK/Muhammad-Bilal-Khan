@@ -29,7 +29,7 @@
 
 <img align="right" alt="cod" width="300" height="250" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <img align="right" alt="insta" width="330" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="insta" width="370" height="250" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-13.gif">
+<img align="right" alt="insta" width="350" height="250" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-13.gif">
 
 <img align="right" alt="insta" width="900" height="100" src="https://www.citypng.com/public/uploads/small/31631830509hmwvoomviegp31n1c87psxb0lymc9f9xfb4x0mxber3cnvjwe4by6fgj6emkcl2nocmfvk2bzyc7empasfqh1rwua0tkrflbvm8n.png">
 

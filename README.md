@@ -10,10 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-bilalk&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-bilalk" /> </p>
 
-- 🌱 I’m currently learning 
-**Cyber Security, Coding**
+🌱 I’m currently learning 
 
-- 📫 How to reach me 
+**Cyber Security Fundamentals** 
+
+**Coding**
+
+📫 How to reach me 
+
 **https://www.linkedin.com/in/muhammad-bilal-khan-6a8620250/**
 
 **bilal.s3020@gmail.com**

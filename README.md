@@ -27,9 +27,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<img align="right" alt="cod" width="290" height="250" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-<img align="right" alt="insta" width="290" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="insta" width="300" height="250" src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-13.gif">
+
+<img align="center" alt="insta" width="900" height="300" src="https://eportfolio.utm.my/artefact/file/download.php?file=682043&view=171850&embedded=1&text=691127">
 
 <img align="right" alt="insta" width="900" height="100" src="https://www.citypng.com/public/uploads/small/31631830509hmwvoomviegp31n1c87psxb0lymc9f9xfb4x0mxber3cnvjwe4by6fgj6emkcl2nocmfvk2bzyc7empasfqh1rwua0tkrflbvm8n.png">
 

@@ -15,6 +15,7 @@
 
 - 📫 How to reach me 
 **https://www.linkedin.com/in/muhammad-bilal-khan-6a8620250/**
+
 **bilal.s3020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -38,9 +38,7 @@
 <img align="right" alt="insta" width="900" height="100" src="https://www.citypng.com/public/uploads/small/31631830509hmwvoomviegp31n1c87psxb0lymc9f9xfb4x0mxber3cnvjwe4by6fgj6emkcl2nocmfvk2bzyc7empasfqh1rwua0tkrflbvm8n.png">
 
 <img align="center" alt="insta" width="300" height="300" src="https://media0.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
-<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-bilalk&show_icons=true&locale=en&layout=compact" alt="muhammad-bilalk" /></p>
-
-<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammad-bilalk&show_icons=true&locale=en" alt="muhammad-bilalk" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-bilalk&show_icons=true&locale=en&layout=compact/PAT_1" alt="muhammad-bilalk" /></p>
 
 <p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-bilalk&" alt="muhammad-bilalk" /></p>
 
